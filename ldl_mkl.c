@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <mkl.h>
-#include <lapacke.h>
+#include <mkl_lapacke.h>
 #include <time.h>
 #include <math.h>
 #include <team4_readme.h>
